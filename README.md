@@ -49,8 +49,7 @@ Employee Manager App — это современное веб-приложени
 ### Шаг 1. Клонирование репозитория
 
 ```bash
-git clone <URL_вашего_репозитория>
-cd <название_папки_проекта>
+git clone https://github.com/temawan2gecko/employees-react-rtk.git
 ```
 
 ### Шаг 2. Установка зависимостей
